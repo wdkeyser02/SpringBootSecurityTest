@@ -1,0 +1,5 @@
+willydekeyser\config\SecurityConfig.class
+willydekeyser\controller\WelcomeController.class
+willydekeyser\SpringBootOauth2ClientApplication.class
+willydekeyser\config\WelcomeClient.class
+willydekeyser\config\WebClientConfig.class
