@@ -1,5 +1,5 @@
-D:\CloudStation\Test\SpringBootOauth2Client\src\main\java\willydekeyser\SpringBootOauth2ClientApplication.java
-D:\CloudStation\Test\SpringBootOauth2Client\src\main\java\willydekeyser\config\WebClientConfig.java
-D:\CloudStation\Test\SpringBootOauth2Client\src\main\java\willydekeyser\controller\WelcomeController.java
-D:\CloudStation\Test\SpringBootOauth2Client\src\main\java\willydekeyser\config\SecurityConfig.java
-D:\CloudStation\Test\SpringBootOauth2Client\src\main\java\willydekeyser\config\WelcomeClient.java
+D:\CloudStation\Test\SpringBootSecurityTest\SpringBootOauth2Client\src\main\java\willydekeyser\controller\WelcomeController.java
+D:\CloudStation\Test\SpringBootSecurityTest\SpringBootOauth2Client\src\main\java\willydekeyser\config\WebClientConfig.java
+D:\CloudStation\Test\SpringBootSecurityTest\SpringBootOauth2Client\src\main\java\willydekeyser\SpringBootOauth2ClientApplication.java
+D:\CloudStation\Test\SpringBootSecurityTest\SpringBootOauth2Client\src\main\java\willydekeyser\config\SecurityConfig.java
+D:\CloudStation\Test\SpringBootSecurityTest\SpringBootOauth2Client\src\main\java\willydekeyser\config\WelcomeClient.java
